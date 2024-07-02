@@ -4,5 +4,7 @@ kasmweb/nginx:1.25.3
 itushan/mtab:latest
 mysql:8
 redis:5.0.9
+elasticsearch:7.17.18
+kibana:7.17.18
 
 
