@@ -6,5 +6,6 @@ mysql:8
 redis:5.0.9
 elasticsearch:7.17.18
 kibana:7.17.18
+mysql:5.7.44
 
 
