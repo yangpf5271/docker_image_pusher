@@ -7,5 +7,6 @@ redis:5.0.9
 elasticsearch:7.17.18
 kibana:7.17.18
 mysql:5.7.44
-
-
+safarov/freeswitch:1.10.3
+safarov/freeswitch:1.6.20
+safarov/freeswitch:1.8.5
