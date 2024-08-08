@@ -10,4 +10,4 @@ mysql:5.7.44
 safarov/freeswitch:1.10.3
 safarov/freeswitch:1.6.20
 safarov/freeswitch:1.8.5
-centos7.9.2009
+centos:centos7.9.2009
