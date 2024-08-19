@@ -12,3 +12,5 @@ safarov/freeswitch:1.6.20
 safarov/freeswitch:1.8.5
 centos:centos7.9.2009
 --platform linux/arm64 python:3.9.19
+--platform linux/arm64 python:3.8.19
+--platform linux/arm64 python:3.12.5
