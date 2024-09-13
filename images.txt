@@ -17,3 +17,4 @@ centos:centos7.9.2009
 --platform linux/amd64 python:3.11.9
 --platform linux/amd64 python:3.10.14
 nvidia/cuda:11.2.2-devel-centos7
+alphacep/kaldi-cn:latest
