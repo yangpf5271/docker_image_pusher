@@ -13,3 +13,4 @@ nfew/siyuan:v3.3.1
 nfew/siyuan:v3.3.0
 nfew/siyuan:v3.2.1
 nfew/siyuan:v3.2.0
+colinianking/stress-ng:latest
