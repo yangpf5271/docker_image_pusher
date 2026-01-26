@@ -14,3 +14,4 @@ nfew/siyuan:v3.3.0
 nfew/siyuan:v3.2.1
 nfew/siyuan:v3.2.0
 colinianking/stress-ng:latest
+qq1aq/kokoro-fastapi-gpu:v0.4.8
