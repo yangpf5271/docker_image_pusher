@@ -16,3 +16,4 @@ nfew/siyuan:v3.2.0
 colinianking/stress-ng:latest
 qq1aq/kokoro-fastapi-gpu:v0.4.8
 1panel/openclaw:2026.3.8
+ghcr.io/aas-ee/open-web-search:v1.2.6
