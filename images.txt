@@ -17,3 +17,11 @@ colinianking/stress-ng:latest
 qq1aq/kokoro-fastapi-gpu:v0.4.8
 1panel/openclaw:2026.3.8
 ghcr.io/aas-ee/open-web-search:v1.2.6
+nousresearch/hermes-agent:v2026.4.8
+# hiperOne依赖
+mysql:8.0
+redis:7.0.4
+qdrant/qdrant:latest
+rabbitmq:3-management
+xuxueli/xxl-job-admin:2.4.0
+minio/minio:RELEASE.2023-11-20T22-40-07Z.fips
