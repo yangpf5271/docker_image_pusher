@@ -26,3 +26,5 @@ qdrant/qdrant:latest
 rabbitmq:3-management
 xuxueli/xxl-job-admin:2.4.0
 minio/minio:RELEASE.2023-11-20T22-40-07Z.fips
+mysql:8.0.46-bookworm
+minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
